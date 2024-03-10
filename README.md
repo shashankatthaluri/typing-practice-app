@@ -11,11 +11,11 @@
 
 ## Usage
 1. 🚀 Run the app.
-2. Select the practice duration (15, 30, or 60 seconds).
-3. Click the "Start Practice" button to begin the session.
+2. ⏱Select the practice duration (15, 30, or 60 seconds).
+3. Click the `Start Practice` button to begin the session.
 4. Type the displayed word within the time limit.
-5. The app will dynamically change the button to "Stop Practice" during the session.
-6. After the session, statistics such as average WPM and accuracy will be displayed.
+5. The app will dynamically change the button to  `Stop Practice` during the session.
+6. 📊 After the session, statistics such as average WPM and accuracy will be displayed.
 
 ## Further Work
 - Enhance the word list by incorporating the Natural Language Toolkit (NLTK) corpus for a larger and diverse set of words.
