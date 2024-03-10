@@ -18,12 +18,8 @@
 6. After the session, statistics such as average WPM and accuracy will be displayed.
 
 ## Further Work
-- Implement a feature to allow the user to start a new session or restart the current session after clicking the "Stop Practice" button.
+- 🔄 Implement a feature to allow the user to start a new session or restart the current session after clicking the "Stop Practice" button.
 - Enhance the word list by incorporating the Natural Language Toolkit (NLTK) corpus for a larger and diverse set of words.
-
-## Mistakes to Rectify
-1. 🔄 Currently, the app does not provide an option to start a new session or restart the current session after clicking the "Stop Practice" button. This feature should be implemented for a better user experience.
-2. The word list can be expanded by using the NLTK corpus to provide a more extensive and diverse set of words for practice.
 
 ## Contributions Welcome
 👩‍💻👨‍💻 Contributions to the development of this app are welcome! Feel free to fork the project, make improvements, and submit pull requests.
